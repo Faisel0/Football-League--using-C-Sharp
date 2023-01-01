@@ -1,0 +1,24 @@
+C:\Users\hp\source\repos\crud for player\crud for player\bin\Debug\crud for player.exe.config
+C:\Users\hp\source\repos\crud for player\crud for player\bin\Debug\crud for player.exe
+C:\Users\hp\source\repos\crud for player\crud for player\bin\Debug\crud for player.pdb
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud for player.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Form1.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Properties.Resources.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud for player.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud for player.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud for player.exe
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud for player.pdb
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Match_result.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Opening_form.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.queries.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Login.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Message.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Managers.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Captain.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.refs.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Stadium.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Table.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Teams.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.League.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Coaches.resources
+C:\Users\hp\source\repos\crud for player\crud for player\obj\Debug\crud_for_player.Fixtures.resources
